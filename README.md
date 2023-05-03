@@ -2,33 +2,32 @@
     <img width="30%" src="https://png.pngitem.com/pimgs/s/499-4996839_icon-for-communication-hd-png-download.png">
 </p>
 
-# <h1 align=center> **Telecomunicaciones en Argentina** </h1>
+# <h1 align=center> **Telecoms In Argentina** </h1>
 
 # <h1 align=center>**`Data Analytics`**</h1>
 
 
-## Intro
+## Introduction
 
-En este repositorio se intentará dar una solución a una problemática de negocios adoptando el rol de una analista de datos.
+In this repository, we will provide a solution to a business problem by adopting the role of a data analyst.
 
-## Objetivos
+## Scope
 
-- Realizar un EDA y preparar un informe de nuestro análisis.
+- Perform an EDA and prepare a report of our analysis.
 
-- Definir al menos 4 KPIs acordes a lo que necesita el cliente.
+- Define at least 4 KPIs according to what the client needs.
 
-- Confeccionar un dashboard en Power BI que refleje el análisis de un caso de negocios.
+- Create a dashboard in Power BI that reflects the analysis of a business case.
 
 
-## Contenido del Repositorio
+## Repository Content
 
-- Carpeta con los datasets originales.
-- Carpeta con los datasets ya procesados.
-- EDA.ipynb: Archivo de jupyter notebook conteniendo el EDA e Informe.
-- PI03_DS05_Dashboard.pbix: Archivos de Power BI conteniendo el dashboard y presentación.
+- Folder with the original datasets.
+- Folder with the datasets already processed.
+- Report_EDA.ipynb: Jupyter notebook file containing the EDA and Report.
+- Dashboard.pbix: Power BI file containing the dashboard and presentation.
 
-## Herramientas
-Se utilizó para este proyecto:
+## Tools
+Used for this project:
 - Python (pandas)
 - Power BI
-
